@@ -25,7 +25,7 @@
 
 ### 🎨 Creative & Media Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere" />
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere,lightroom" />
 </p>
 
 📸 **Lightroom** | 🎬 **After Effects** | 🎞 **Premiere Pro**
